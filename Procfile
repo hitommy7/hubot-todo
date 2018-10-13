@@ -1,1 +1,1 @@
-web: bin/hubot
+web: node index.js
