@@ -1,0 +1,8 @@
+{
+  "name": "hubot",
+  "description": "ugoke!hubot",
+  "repository": ,
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/hubot"
+}
