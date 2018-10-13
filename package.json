@@ -21,7 +21,7 @@
     "todo": "file:todo"
   },
   "engines": {
-    "node": "0.10.x",
+    "node": "8.9.4",
     "npm": "6.4.1"
   }
 }
